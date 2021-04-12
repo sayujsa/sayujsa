@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saay
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any beginner level projects
+- 💞️ I’ll be happy to collaborate on any beginner level projects
 - 📫 You can reach me at sayuj.xavier@gmail.com
 
 <!---
