@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saay
+- 👋 Hi, I’m Sayuj
 - 🌱 I’m currently learning python
 - 💞️ I’ll be happy to collaborate on any beginner level projects
 - 📫 You can reach me at sayuj.xavier@gmail.com
