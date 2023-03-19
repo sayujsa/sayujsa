@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Sayuj
-- 🌱 I’m currently learning python
-- 💞️ I’ll be happy to collaborate on any beginner level projects
-- 📫 You can reach me at sayuj.xavier@gmail.com
+- 📊 Currently a data analyst intern
+- ✏️ I'm currently working on : data analysis of the prime volleyball league 2023
+- 🌱 I’m currently learning : data visualization with Power BI
+- 💞️ I’m passionate about data analysis of volleyball (or any other sports for that matter)
 
-![Codewars](https://www.codewars.com/users/sayujsa/badges/large)
+## Find me on
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayujsa/)
+
+## Extras
+  [![Codewars](https://www.codewars.com/users/sayujsa/badges/small)](https://www.codewars.com/users/sayujsa)
 
 <!---
 sayujsa/sayujsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
