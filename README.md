@@ -3,6 +3,8 @@
 - 💞️ I’ll be happy to collaborate on any beginner level projects
 - 📫 You can reach me at sayuj.xavier@gmail.com
 
+![Codewars](https://www.codewars.com/users/sayujsa/badges/large)
+
 <!---
 sayujsa/sayujsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
