@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sayuj
 - 📊 Currently a data analyst intern
-- ✏️ I'm currently working on : data analysis of the prime volleyball league 2023
+- ✏️ I'm currently working on : data analysis of the IBM HR Dataset
 - 🌱 I’m currently learning : data visualization with Power BI
 - 💞️ I’m passionate about data analysis of volleyball (or any other sports for that matter)
 
