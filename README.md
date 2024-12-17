@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sayuj
 - 📊 Currently a data engineer
-- ✏️ I'm currently working on : [![PriceMyWheels]](https://www.google.com)
+- ✏️ I'm currently working on : [[PriceMyWheels]](https://www.google.com)
 - 🌱 I’m currently learning : Cloud Architecture
 - 💞️ I’m passionate about data analysis and data engineering
 
