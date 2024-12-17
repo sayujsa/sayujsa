@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sayuj
-- 📊 Currently a data analyst intern
-- ✏️ I'm currently working on : data analysis of the IBM HR Dataset
-- 🌱 I’m currently learning : inferential statistics
-- 💞️ I’m passionate about data analysis of volleyball (or any other sports for that matter)
+- 📊 Currently a data engineer
+- ✏️ I'm currently working on : [![PriceMyWheels](www.google.com)
+- 🌱 I’m currently learning : Cloud Architecture
+- 💞️ I’m passionate about data analysis and data engineering
 
 ## Find me on
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayujsa/)
